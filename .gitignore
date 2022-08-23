@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints
+**/__pycache__/
+.vscode
+/lab1/training/logs/
+/lab1/model.pt
+/lab1/readme.md
